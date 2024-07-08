@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi, I'm James Nemeth
 
+- 🌱 I’m currently learning to build fullstack applications!
+- 🤔 I’m looking for help buinesses with any and all Web Development needs!
+- 📫 You can reach me through my Linkin: https://www.linkedin.com/in/james-nemeth-406639191/
+  
+  
 <!--
-**JamesImreNemeth/JamesImreNemeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
