@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning to build fullstack applications!
 - 🤔 I’m looking for help buinesses with any and all Web Development needs!
-- 📫 You can reach me through my Linkin: https://www.linkedin.com/in/james-nemeth-406639191/
+- 📫 You can reach me through LinkedIn: https://www.linkedin.com/in/james-nemeth-406639191/
   
   
 <!--
