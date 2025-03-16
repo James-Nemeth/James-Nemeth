@@ -1,8 +1,8 @@
 # 💫 About Me:
 ## Hi, I'm James Nemeth
 
-- 🌱 I’m currently learning to build fullstack applications!
-- 😄 I’m looking to help businesses with any and all Web Development needs!
+- 🌱 I’m currently building fullstack applications!
+- 😄 I’m looking to help businesses with any and all Software Development needs!
 - 📫 You can reach me through LinkedIn: https://www.linkedin.com/in/james-nemeth-406639191
 
 ## Check out my Portfolio Website at: https://james-nemeth.github.io/Portfolio
